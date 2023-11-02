@@ -25,6 +25,10 @@ components:
     name: link_1
     layout_properties: {grid_position: 'YQMXBN,OJZXOP'}
     event_bindings: {click: link_1_click}
+  - name: rich_text_1
+    properties: {}
+    type: RichText
+    layout_properties: {grid_position: 'PIHMXR,AOHXPY'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
